@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hh1{
+    background-color: #484848;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgb(138, 138, 138);
+    font-family: 'Inter',sans-serif ;
+}
+
+.topik2h1{
+    background-color: #357CF8;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgb(138, 138, 138);
+    font-family: 'Inter',sans-serif ;
+}
+
+.topik3h1{
+    background-color: #D45A4F;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgb(138, 138, 138);
+    font-family: 'Inter',sans-serif ;
+}
+
+.topik4h1{
+    background-color: #754097;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgb(138, 138, 138);
+    font-family: 'Inter',sans-serif ;
+}
+
+.hh2{
+    text-align: center;
+    color: white;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.hh3{
+    background-color: #FECF71;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hh4{
+    background-color: #FECF71;
+    width: 250px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hh5{
+    background-color: #FECF71;
+    width: 280px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hh6{
+    background-color: #FECF71;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hh7{
+    background-color: #FECF71;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.p1{
+    color: white;
+    font-size: 70%;
+}
+
+.p2{
+    color: #357CF8;
+    font-size: 60%;
+    font-weight: 600;
+}
+
+.cardbg{
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: #263238;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.cardtop{
+    background-color: #357CF8;
+    height: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.card1{
+    width: 90%;
+}
+
+.card-body{
+    background-color: #D9D9D9;
+}
+
+.imgc1{
+    border-radius: 10px;
+    background-image: url(../img/btopik1.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 160px;
+}
+
+.imgc2{
+    border-radius: 10px;
+    background-image: url(../img/topik2.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 160px;
+}
+
+
+.imgc3{
+    border-radius: 10px;
+    background-image: url(../img/topik3.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 160px;
+}
+
+
+.imgc4{
+    border-radius: 10px;
+    background-image: url(../img/topik4.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 160px;
+}
+
+.hr{
+    margin-top: -10px;
+}
+
+.cardbg1{
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: #263238;
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.btopik{
+    background-image: url(../img/btopik1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:500px;
+    border-radius: 20px;
+}
+
+.btopik21{
+    background-image: url(../img/topik2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:500px;
+    border-radius: 20px;
+}
+
+.btopik22{
+    background-image: url(../img/btopik22.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 450px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.btopik23{
+    background-image: url(../img/btopik23.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    border-radius: 20px;
+    height: 450px;
+    position: relative;
+}
+
+.btopik24{
+    background-image: url(../img/btopik24.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    border-radius: 20px;
+    height: 450px;
+    position: relative;
+}
+
+.btopik31{
+    background-image: url(../img/topik3.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    border-radius: 20px;
+    height: 450px;
+    position: relative;
+}
+
+.btopik41{
+    background-image: url(../img/topik4.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    border-radius: 20px;
+    height: 450px;
+    position: relative;
+}
+
+.textb1{
+    box-shadow: 0 0 8px rgb(138, 138, 138);
+    border-radius: 20px;
+}
+
+.textbold{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.textbold1{
+    font-weight: bold;
+}
+
+.quiz{
+    text-align: center;
+    background-color: #F7FDCA;
+}
+
+.button1{
+    background-color: #F0776C;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn1:focus{
+    border: none;
+}
+

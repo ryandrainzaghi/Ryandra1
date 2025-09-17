@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.hh4{
+    background-color: #65A6E2;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 350px;
+}
+
+.p1{
+    color: white;
+    font-size: 70%;
+    font-weight: 700;
+}
+
+.kontak{
+    background-image: url(../img/instagram.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:50px;
+    width: 50px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.ppks{
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.ppks1{
+    font-weight: 600;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.linkppks{
+    text-decoration: none;
+
+}
+
+.ig{
+    box-shadow: 0 0 30px rgb(138, 138, 138);
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

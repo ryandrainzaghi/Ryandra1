@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.carousel1{
+    background-image: url(../img/carousel1.png);
+    height: 300px;
+    background-position: top right;
+    background-size: cover;
+    width: 100%;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.carousel1 h3{
+    font-weight: bold;
+}
+
+.carousel2 h3{
+    font-weight: bold;
+}
+
+.carousel3 h3{
+    font-weight: bold;
+}
+
+.carousel2{
+    background-image: url(../img/carousel2.png);
+    height: 300px;
+    background-position: top right;
+    background-size: cover;
+    width: 100%;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.carousel3{
+    background-image: url(../img/carousel3.png);
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.carousel1 h3{
+    font-weight: bold;
+}
+
+.incarousel{
+    height: 300px;
+    display: flex;
+    align-items: center;
+
+}
+
+.carousel-control-prev {
+    transform: Translatex(-40%);
+}
+
+.carousel-control-next {
+    transform: Translatex(40%);
+}
+
+.hh1{
+    background-color: #65A6E2;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 250px;
+}
+
+.hh2{
+    background-color: #FECF71;
+    width: 350px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.hh3{
+    background-color: #FECF71;
+    width: 350px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hh4{
+    background-color: #65A6E2;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 350px;
+}
+
+.hh5{
+    background-color: #FECF71;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.hh6{
+    text-align: center;
+    color: transparent;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.p1{
+    color: white;
+    font-size: 70%;
+    font-weight: 700;
+}
+
+.p2{
+    color: #1B74BB;
+    font-size: 70%;
+    text-align: center;
+    font-weight: 700;
+}
+
+.pp{
+    background-color: #F7FDCA;
+}
+
+.cardbg{
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.500);
+    border-radius: 20px;
+}
+
+.card1{
+    height: 400px;
+    background-image: url(../img/btopik1.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.card2{
+    height: 400px;
+    background-image: url(../img/topik2.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.card3{
+    height: 400px;
+    background-image: url(../img/topik3.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.card4{
+    height: 400px;
+    background-image: url(../img/topik4.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.overlay{
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%);
+    border-radius: 20px;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.cardtext{
+    color: white;
+    text-decoration: none;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.quiz{
+    text-align: center;
+    background-color: #F7FDCA;
+}
+
+.button1{
+    text-align: center;
+}
+
+.button2{
+    background-color: #F0776C;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn1:focus{
+    border: none;
+}
